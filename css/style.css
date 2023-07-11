@@ -90,7 +90,7 @@ section {
     
     height: 100vh;
     width: 100%;
-    background-image: url(img/backgrounder.jpeg);
+    background-image: url(./img/backgrounder.JPEG);
     background-size: cover;
     background-position:right ;
     display: flex;
